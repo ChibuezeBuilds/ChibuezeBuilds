@@ -23,7 +23,9 @@
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/deepink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deep.ink_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 </p>
 
 ---
@@ -71,4 +73,27 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChibuezeBuilds&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
+
+---
+
+<h3 align="center">🚀 Pinned Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/ChibuezeBuilds/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChibuezeBuilds&repo=project-1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ChibuezeBuilds/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChibuezeBuilds&repo=project-2&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChibuezeBuilds/project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChibuezeBuilds&repo=project-3&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ChibuezeBuilds/project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChibuezeBuilds&repo=project-4&theme=tokyonight" />
+  </a>
+</p>
+
 
